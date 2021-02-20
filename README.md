@@ -2,18 +2,13 @@
 
 <a href="https://github.com/Kimminkyuol">
   <img src="https://github-readme-stats.vercel.app/api?username=Kimminkyuol&show_icons=true" alt="Kimminkyuol's GitHub Stats" />
-</a>
-<br>
-<br>
-<div>
+</a><br><br>
+
 안녕하세요, 제 페이지에 방문해주셔서 감사합니다. :P<br>
 이곳은 제가 관심 있는 분야와<br>
-저의 다양한 프로젝트들을 구경할 수 있는 공간이에요!
-</div>
-<br>
+저의 다양한 프로젝트들을 구경할 수 있는 공간이에요!<br><br>
 
-<p>
-▼ 수상 및 주요 활동
+## ▼ 수상 및 주요 활동
 
 2020 . 6 : 대한민국 학생 발명전시회 본선진출, 입상
 
@@ -32,5 +27,3 @@
 2019 . 9 : 마포창의소프트웨어경진대회 주제창작 부분 대상수상(창의상 - 서강대총장상)
 
 2019 . 7 : 학생발명탐구대회 연가초등학교 최우수상
-
-</p>
