@@ -3,18 +3,34 @@
 <a href="https://github.com/Kimminkyuol">
   <img src="https://github-readme-stats.vercel.app/api?username=Kimminkyuol&show_icons=true" alt="Kimminkyuol's GitHub Stats" />
 </a>
+<br>
+<br>
+<div>
+안녕하세요, 제 페이지에 방문해주셔서 감사합니다. :P<br>
+이곳은 제가 관심 있는 분야와<br>
+저의 다양한 프로젝트들을 구경할 수 있는 공간이에요!
+</div>
+<br>
 
-### My latest projects
+<p>
+▼ 수상 및 주요 활동
 
-<a href="https://github.com/Kimminkyuol/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Kimminkyuol&repo=codestats-profile-readme" alt="codestats-profile-readme" />
-</a>
-<a href="https://github.com/Kimminkyuol/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Kimminkyuol&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
-</a>
+2020 . 6 : 대한민국 학생 발명전시회 본선진출, 입상
 
-### Recently I'm coding in...
+2020 . 5 : 제33회 과학의날 과학기술정보통신부 장관상 수상
 
-<a href="https://codestats.net/users/Kimminkyuol">
-  <img src='https://codestats-readme.Kimminkyuol.cn/history-graph/Kimminkyuol?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Kimminkyuol's Code::Stats history graph" />
-</a>
+2020 . 4 : 특허청 청소년발명기자단 선정
+
+2020 . 3 : 서울시 교육청 정보융합영재원 입학
+
+2020 . 3 : 서울연가초등학교 방송반 / 과학동아리 활동
+
+2019 . 12 : 제7회 대한민국 청소년 로봇 스포츠대회 대상수상 (미션수행부문 - 경기도 도지사상)
+
+2019. 10 : 서울시교육청, 2019 서울학생 메이커괴짜 축제 서울연가초등학교 부스 운영 및 활동
+
+2019 . 9 : 마포창의소프트웨어경진대회 주제창작 부분 대상수상(창의상 - 서강대총장상)
+
+2019 . 7 : 학생발명탐구대회 연가초등학교 최우수상
+
+</p>
